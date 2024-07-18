@@ -12,7 +12,7 @@ def game():
     pygame.init()
     # life line
     ESLN = True
-    cirim = pygame.image.load('The cir.png')
+    cirim = pygame.image.load('assets/The cir.png')
     cirim = pygame.transform.scale_by(cirim, 5)
     ydg = False
     flag = True
@@ -22,11 +22,11 @@ def game():
     # exp
     explosion = False
     counter = 0
-    exp1 = pygame.image.load('exp1.png')
-    exp2 = pygame.image.load('exp2.png')
-    exp3 = pygame.image.load('exp3.png')
-    exp4 = pygame.image.load('exp4.png')
-    exp5 = pygame.image.load('exp5.png')
+    exp1 = pygame.image.load('assets/exp1.png')
+    exp2 = pygame.image.load('assets/exp2.png')
+    exp3 = pygame.image.load('assets/exp3.png')
+    exp4 = pygame.image.load('assets/exp4.png')
+    exp5 = pygame.image.load('assets/exp5.png')
     conter = 0
 
     # enemy thingy
@@ -376,10 +376,10 @@ def game():
     green = (0, 255, 0)
 
     # Supa sound bar
-    crash_sound = pygame.mixer.Sound("Ripdaship.mp3")
-    laza_sound = pygame.mixer.Sound("laser.mp3")
-    rip_sound = pygame.mixer.Sound("boom.mp3")
-    rip2_sound = pygame.mixer.Sound("bd.mp3")
+    crash_sound = pygame.mixer.Sound("assets/Ripdaship.mp3")
+    laza_sound = pygame.mixer.Sound("assets/laser.mp3")
+    rip_sound = pygame.mixer.Sound("assets/boom.mp3")
+    rip2_sound = pygame.mixer.Sound("assets/bd.mp3")
     # code for stars
     for _ in range(100):
         x = random.randrange(0, window_size[0])
