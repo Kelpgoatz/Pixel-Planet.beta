@@ -1,5 +1,5 @@
-('C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
- 'Planet.Beta\\PYZ-00.pyz',
+('C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+ 'Planet.beta\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),

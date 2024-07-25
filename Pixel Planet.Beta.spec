@@ -2,10 +2,10 @@
 
 
 a = Analysis(
-    ['Pixel Planet.Beta.py'],
+    ['Pixel Planet.beta.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('assets/*', 'assets')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -21,7 +21,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='Pixel Planet.Beta',
+    name='Pixel Planet.beta',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -40,5 +40,5 @@ coll = COLLECT(
     strip=False,
     upx=True,
     upx_exclude=[],
-    name='Pixel Planet.Beta',
+    name='Pixel Planet.beta',
 )

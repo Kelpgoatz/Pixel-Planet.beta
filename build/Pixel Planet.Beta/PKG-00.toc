@@ -1,5 +1,5 @@
-('C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
- 'Planet.Beta\\Pixel Planet.Beta.pkg',
+('C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+ 'Planet.beta\\Pixel Planet.beta.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -11,28 +11,28 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
-   'Planet.Beta\\PYZ-00.pyz',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+   'Planet.beta\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
-   'Planet.Beta\\localpycs\\struct.pyc',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+   'Planet.beta\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
-   'Planet.Beta\\localpycs\\pyimod01_archive.pyc',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+   'Planet.beta\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
-   'Planet.Beta\\localpycs\\pyimod02_importers.pyc',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+   'Planet.beta\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
-   'Planet.Beta\\localpycs\\pyimod03_ctypes.pyc',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+   'Planet.beta\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\build\\Pixel '
-   'Planet.Beta\\localpycs\\pyimod04_pywin32.pyc',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\build\\Pixel '
+   'Planet.beta\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -47,7 +47,7 @@
    'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('Pixel Planet.beta',
-   'C:\\Users\\User\\PycharmProjects\\Pixel Planet Beta\\Pixel Planet.beta.py',
+   'C:\\Users\\User\\PycharmProjects\\Pixel-Planet.beta\\Pixel Planet.beta.py',
    'PYSOURCE')],
  'python312.dll',
  True,
